@@ -1,2 +1,5 @@
 # Online Public Access Catalog
+
+Online Public Access Catalog (OPAC) built using JavaFX.
+
 An Online Public Access Catalog (OPAC) is an e-Library website which is part of Library Management System (LMS). I have designed an OPAC system where Customers/Visitors of the library can search library catalog online to locate various resources - books, periodicals, audio, visual materials and ebook readers. Each copy of a resource has a unique ID. Customers may reserve or release item and manage their account/profile.
